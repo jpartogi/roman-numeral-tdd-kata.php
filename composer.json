@@ -1,0 +1,16 @@
+{
+    "name": "Roman Numeral TDD Kata",
+    "description": "Roman Numeral TDD Kata",
+    "license": "MIT",
+    "require-dev": {
+        "phpunit/phpunit": "4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "": [
+                "app",
+                "tests"
+            ]
+        }
+    }
+}
